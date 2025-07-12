@@ -1,15 +1,15 @@
 <img src="banner.png">
 <div align="center">
-<a href="YOUR_TWITTER_PROFILE_URL">
+ <a href="YOUR_WEBSITE_URL">
+  <img src="https://img.shields.io/static/v1?message=My%20Website&logo=homepage&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="website logo" />
+</a>
+<a href="https://x.com/EricD2116">
   <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo" />
 </a>
-<a href="YOUR_DISCORD_INVITE_LINK">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo" />
-</a>
-<a href="YOUR_INSTAGRAM_PROFILE_URL">
+<a href="https://www.instagram.com/eric0x44/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo" />
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:excessbyte@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo" />
 </a>
 </div>
