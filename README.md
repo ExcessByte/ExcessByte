@@ -1,3 +1,2 @@
 <img src="banner.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ExcessByte&show_icons=true&theme=light&disable_animations=true&hide_title=true&line_height=35&rank_icon=false&hide_progress=true&icon_color=000000&border_radius=20&font=Jura" alt="ExcessByte's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ExcessByte&line_height=35&border_radius=20&font=Fira%20Code&theme=default&hide_title=true&hide_rank=true&show_icons=true&disable_animations=true&hide_border=true&exclude_repo=" alt="stats graph"  />
