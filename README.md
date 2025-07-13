@@ -1,7 +1,7 @@
 <img src="banner.png">
 <div align="center">
  <a href="YOUR_WEBSITE_URL">
-  <img src="https://img.shields.io/static/v1?message=My%20Website&logo=homepage&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="website logo" />
+  <img src="https://img.shields.io/static/v1?message=My%20Website&logo=homepage&label=Coming%20Soon&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="website logo" />
 </a>
 <a href="https://x.com/EricD2116">
   <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo" />
