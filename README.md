@@ -11,7 +11,6 @@
 
 I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
 
-
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://bsky.app/profile/byte.is-a.dev" target="_blank">
     <img src="/icons/bluesky.jpeg" alt="Image 3" style="width: 50px; height: 50px;">
