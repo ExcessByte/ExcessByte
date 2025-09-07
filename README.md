@@ -1,4 +1,6 @@
-<img src="banner.png">
+<a href="#">
+  <img src="banner.png">
+</a>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://bsky.app/profile/byte.is-a.dev" target="_blank">
     <img src="/icons/bluesky.jpeg" alt="Image 3" style="width: 50px; height: 50px;">
@@ -16,3 +18,6 @@
     <img src="/icons/website.jpeg" alt="My Website" style="width: 50px; height: 50px;">
   </a>
 </div>
+
+------
+
