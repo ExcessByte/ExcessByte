@@ -22,8 +22,9 @@
 </div>
 
 ___
-
-# About Me
-- 19
-- Male
-- Intermediate in ```🐍 Python```, ```</> HTML```, ```🎨 CSS```, ```🇯‌🇸‌ JavaScript```
+### About Me
+    ✦ Eric Denny
+    ✦ 19
+    ✦ Male
+    ✦ Wants to make something useful!
+    ✦ Intermediate in 🐍 Python, </> HTML, 🎨 CSS, 🇯‌🇸‌ JavaScript
