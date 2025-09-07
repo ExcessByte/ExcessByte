@@ -22,3 +22,8 @@
 </div>
 
 ___
+
+# About Me
+- 19
+- Male
+- Intermediate in ```🐍 Python```, ```</> HTML```, ```🎨 CSS```, ```🇯‌🇸‌ JavaScript```
