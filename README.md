@@ -1,6 +1,15 @@
 <a href="#">
   <img src="banner.png">
-</a><br><br>
+</a>
+<br>
+
+### **I'm Eric,**  
+
+**What I'm currently focused on:**
+* Improving my **```🐍 Python```** skills
+* Building with **```</> HTML```**, **```🎨 CSS```**, and **```🇯‌🇸‌ JavaScript```**.
+
+I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -20,11 +29,3 @@
     <img src="/icons/website.jpeg" alt="My Website" style="width: 50px; height: 50px;">
   </a>
 </div>
-
-**I'm Eric,**  
-
-**What I'm currently focused on:**
-* Improving my **```🐍 Python```** skills
-* Building with **```</> HTML```**, **```🎨 CSS```**, and **```🇯‌🇸‌ JavaScript```**.
-
-I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
