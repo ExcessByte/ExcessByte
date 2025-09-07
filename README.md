@@ -24,7 +24,7 @@
 **I'm Eric,**  
 
 **What I'm currently focused on:**
-* Improving my **Python** skills for automation and data analysis.
-* Building clean and responsive UIs with **HTML, CSS, and JavaScript**.
+* Improving my **```🐍 Python```** skills for automation and data analysis.
+* Building clean and responsive UIs with **```</> HTML```**, **```🎨 CSS```**, and **```🇯‌🇸‌ JavaScript```**.
 
 I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
