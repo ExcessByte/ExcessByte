@@ -7,7 +7,6 @@
 
 **What I'm currently focused on:**
 * Improving my **```🐍 Python```** skills
-* Building with **```</> HTML```**, **```🎨 CSS```**, and **```🇯‌🇸‌ JavaScript```**.
 
 I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
 
