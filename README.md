@@ -6,7 +6,7 @@
 ### **I'm Eric,**  
 
 **What I'm currently focused on:**
-* Improving my **```🐍 Python```** skills
+* Trying to improve my **```🐍 Python```** skills
 
 I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
 
