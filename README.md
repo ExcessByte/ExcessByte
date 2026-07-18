@@ -11,10 +11,25 @@
   <a href="https://www.linkedin.com/in/eric-denny-6b7a12379/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn">
   </a>
+  <a href="https://www.linkedin.com/in/eric-denny-6b7a12379/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="LinkedIn">
+  </a>
 </div>
 
-### **I'm Eric,** 
+### **A bit about me**
 
-I'm always open to new project ideas and collaborations. Feel free to reach out or check out some of my repositories below!
-
-
+```yaml
+Name: Eric Denny
+Age: 19
+Education: ECE @ Sahrdaya College of Engineering (Class of 2029)
+Currently learning: {
+  AI,
+  Embedded/Hardware Systems,
+  Web Dev (React/TS),
+  Self Hosting
+}
+Interests: {
+  Embedded/Hardware Hacking,
+  Linux Ricing
+}
+```
